@@ -1,0 +1,29 @@
+body{
+background-color: #fff6d8;
+}
+
+h1, h2{
+color: #906718;
+text-align: center;
+
+}
+
+p{
+text-indent: 50px;
+text-align: justify;
+letter-spacing: 3px;
+}
+#Importante{
+   background-color: #d48b00;
+   color: white;
+}
+#linha{
+    border-bottom-style: dotted;
+    color: #906718;
+
+}
+
+#titulo, #subtitulos{
+    color:#3647a1
+}
+
